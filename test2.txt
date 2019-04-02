@@ -1,1 +1,4 @@
-oqwieuroqpewiurpqoweriu
+{
+	"key" : "value",
+	"someKey" : "رپلائی %s"
+}
